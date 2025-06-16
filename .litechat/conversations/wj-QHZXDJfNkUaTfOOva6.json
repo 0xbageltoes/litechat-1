@@ -1,0 +1,15 @@
+{
+  "conversation": {
+    "id": "wj-QHZXDJfNkUaTfOOva6",
+    "createdAt": "2025-06-16T19:40:16.077Z",
+    "updatedAt": "2025-06-16T19:41:23.292Z",
+    "title": "New Chat",
+    "projectId": null,
+    "metadata": {
+      "enabledTools": [],
+      "toolMaxStepsOverride": null
+    },
+    "syncRepoId": "eCsyh5UyWqvn3ypx2lDCX"
+  },
+  "interactions": []
+}
